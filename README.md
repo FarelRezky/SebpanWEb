@@ -1,2 +1,0 @@
-# SebpanWEb
-Web
